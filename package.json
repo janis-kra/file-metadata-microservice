@@ -1,0 +1,19 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "A file metadata microservice, as in https://www.freecodecamp.com/challenges/file-metadata-microservice",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janis-kra/file-metadata-microservice.git"
+  },
+  "author": "Janis Krasemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janis-kra/file-metadata-microservice/issues"
+  },
+  "homepage": "https://github.com/janis-kra/file-metadata-microservice#readme"
+}
