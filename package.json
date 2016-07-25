@@ -4,7 +4,8 @@
   "description": "A file metadata microservice, as in https://www.freecodecamp.com/challenges/file-metadata-microservice",
   "main": "service.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node service.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/janis-kra/file-metadata-microservice/issues"
   },
-  "homepage": "https://github.com/janis-kra/file-metadata-microservice#readme"
+  "homepage": "https://github.com/janis-kra/file-metadata-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-google": "^0.6.0"
+  }
 }
